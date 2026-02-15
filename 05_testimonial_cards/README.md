@@ -9,4 +9,4 @@
   <li>Supports multiple testimonials in a grid or list</li>
 </ul>
 <h2>Original Challange</h2>
-<a hreef="https://roadmap.sh/projects/testimonial-cards">https://roadmap.sh/projects/testimonial-cards</a>
+<a href="https://roadmap.sh/projects/testimonial-cards">https://roadmap.sh/projects/testimonial-cards</a>
